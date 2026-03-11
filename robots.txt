@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gupeng-carpool.vercel.app/sitemap.xml

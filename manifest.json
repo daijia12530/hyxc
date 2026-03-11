@@ -1,0 +1,21 @@
+{
+  "name": "古蓬顺风车系统",
+  "short_name": "古蓬顺风车",
+  "description": "本地顺风车预订平台",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#667eea",
+  "theme_color": "#667eea",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
